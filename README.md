@@ -31,5 +31,5 @@ This project uses GitHub Actions to automatically build and check the code on ev
 
 
 ## CI Screenshot
-![CI Success](ci-screenshot.png)
+![CI Success](ci-screenshot.png.png)
 
