@@ -1,4 +1,4 @@
-# CyberSecurityChatbot (C# Console App)
+# CyberSecurityChatbot
 
 # Project Description
 This is a simple Cybersecurity Chatbot built using C#.  
@@ -6,7 +6,7 @@ It helps users learn basic cybersecurity concepts like phishing, malware, passwo
 
 
 
-##  Features
+#  Features
 - ASCII art interface
 - Voice greeting on startup
 - Interactive chatbot conversation
@@ -27,7 +27,7 @@ It helps users learn basic cybersecurity concepts like phishing, malware, passwo
 
 This project uses GitHub Actions to automatically build and check the code on every push.
 
-✔ Status: Successful
+ Status: Successful
 
 
 ## CI Screenshot
