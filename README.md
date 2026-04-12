@@ -23,7 +23,7 @@ It helps users learn basic cybersecurity concepts like phishing, malware, passwo
 
 
 
-##  CI Pipeline (GitHub Actions)
+##  CI Pipeline 
 
 This project uses GitHub Actions to automatically build and check the code on every push.
 
