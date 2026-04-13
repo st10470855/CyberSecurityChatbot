@@ -32,4 +32,6 @@ This project uses GitHub Actions to automatically build and check the code on ev
 
 ## CI Screenshot
 ![CI Success](ci-screenshot.png.png)
+## 🎥 Presentation Video
+https://www.youtube.com/watch?v=H7Vox46zIUo
 
